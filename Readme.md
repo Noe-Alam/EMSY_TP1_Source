@@ -56,11 +56,11 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **G.** Lancement du live CD : 
 
-<img width="618" height="256" alt="Interface en ligne de commande" src="https://github.com/user-attachments/assets/92684a70-4257-47ff-81c6-9290c242c9d9" />
+<img width="644" height="479" alt="Ecran au moment de l&#39;allumage" src="https://github.com/user-attachments/assets/dafff66c-b56e-467e-a586-8ab7485f7efe" />
 
 Shell Linux : 
 
-[Placer votre capture d'écran]() 
+<img width="618" height="256" alt="Interface en ligne de commande" src="https://github.com/user-attachments/assets/108ac169-e636-4eaf-800e-5de1de816855" />
 
 > **ATTENTION** : par défaut, le clavier est configuré est **Clavier Americain**
 
