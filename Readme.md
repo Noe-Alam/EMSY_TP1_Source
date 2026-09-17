@@ -78,11 +78,13 @@ La disposition du clavier Français est de type AZERTY
 
 **H.** Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
-Q4. vore commande ?!
+Q4. votre commande ?!
+
+La commande que j'ai tapé pour me déplacer a la racine du système est: cd /
 
 **I.** Affichez le contenu de la racine avec la commande : `ls –l`	
 
-![Placer votre capture d'écran]() 
+<img width="731" height="603" alt="Contenu de la racine" src="https://github.com/user-attachments/assets/ebd400e4-c581-4b78-b0b3-68fa19629218" />
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
