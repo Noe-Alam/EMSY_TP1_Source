@@ -86,7 +86,7 @@ L'option -l avec ls indique l'utilisation du format d'affichage détaillé/long 
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-![install image disk](/Images/Ligne répertoire home.jpg)
+![Ecran Demarrage](/Images/EcranAllumage.jpg)
 
 > votre réponse ?!
 
