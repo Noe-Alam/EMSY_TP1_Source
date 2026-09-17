@@ -88,7 +88,9 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 ![Ligne repertoir home](/Images/Ligne_répertoire_home.jpg)
 
-> votre réponse ?!
+d: indique qu'il s'agit d'un répertoire
+
+rwxr-xr-x: Corréspond aux droit d'accès --> rwx:
 
 **J.** Créez un répertoire de travail nommé « EMSY_VosInitiales» 
 
