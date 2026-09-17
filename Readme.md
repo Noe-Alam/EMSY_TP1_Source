@@ -66,15 +66,15 @@ Shell Linux :
 
 Q1. disposition du clavier américain ?
 
-> votre réponse ?!
+La disposition du clavier américain est de type QWERTY
 
 Q2. disposition du clavier suisse-romand ?
 
-> votre réponse ?!
+La disposition du clavier Suisse-romand est de type QWERTZ
 
 Q3. disposition du le clavier français ? 
 
-> votre réponse ?!
+La disposition du clavier Français est de type AZERTY
 
 **H.** Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
