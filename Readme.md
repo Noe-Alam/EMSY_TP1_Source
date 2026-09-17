@@ -3,12 +3,6 @@
 ## Groupe 
 
 1. Yazan (YAD) 		- Noé (NAM) 
-2. Siméon (SAR) 	- Gaëtan (GFR)
-3. Tristan (TCK) 	- Nicolas (NTN)
-4. Matéo (MCN) 		- Thomas (TBT)
-5. Noah (NRN) 		- Guillaume (GFE)
-6. Benjamin (BSC) 	- Valentin (VBC)
-7. Gabriel (GOM) 	- Nikola (NDC)
 
 ## But 
 
@@ -88,11 +82,11 @@ La commande que j'ai tapé pour me déplacer a la racine du système est: cd /
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-> votre réponse ?!
+L'option -l avec ls indique l'utilisation du format d'affichage détaillé/long ce qui fait qu'au lieu d'afficher uniquement le nom des fichier plusieurs autres informations. 
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-[Placer votre capture d'écran]()
+
 
 > votre réponse ?!
 
