@@ -50,11 +50,11 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **G.** Lancement du live CD : 
 
-<img width="644" height="479" alt="Ecran au moment de l&#39;allumage" src="https://github.com/user-attachments/assets/dafff66c-b56e-467e-a586-8ab7485f7efe" />
+![install image disk](/Images/Ecran au moment de l'allumage.jpg)
 
 Shell Linux : 
 
-<img width="618" height="256" alt="Interface en ligne de commande" src="https://github.com/user-attachments/assets/108ac169-e636-4eaf-800e-5de1de816855" />
+![install image disk](/Images/Interface en ligne de commande.jpg)
 
 > **ATTENTION** : par défaut, le clavier est configuré est **Clavier Americain**
 
@@ -78,7 +78,7 @@ La commande que j'ai tapé pour me déplacer a la racine du système est: cd /
 
 **I.** Affichez le contenu de la racine avec la commande : `ls –l`	
 
-<img width="731" height="603" alt="Contenu de la racine" src="https://github.com/user-attachments/assets/ebd400e4-c581-4b78-b0b3-68fa19629218" />
+![install image disk](/Images/Contenu de la racine.jpg)
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
@@ -86,7 +86,7 @@ L'option -l avec ls indique l'utilisation du format d'affichage détaillé/long 
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-
+![install image disk](/Images/Ligne répertoire home.jpg)
 
 > votre réponse ?!
 
