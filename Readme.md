@@ -80,7 +80,7 @@ La commande que j'ai tapé pour me déplacer a la racine du système est: cd /
 
 ![Contenu racine](/Images/Contenu_de_la_racine.jpg)
 
-Q5. Que signifie l'option `-l` avec la commande `ls` 
+**Q5.** Que signifie l'option `-l` avec la commande `ls` 
 
 L'option -l avec ls indique l'utilisation du format d'affichage détaillé/long ce qui fait qu'au lieu d'afficher uniquement le nom des fichier plusieurs autres informations. 
 
