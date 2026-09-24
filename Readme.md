@@ -95,7 +95,7 @@ rwxr-xr-x:
 		   
 > r-x --> Corréspond aux du groupe: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire
 		   
-> r-x --> Corréspond aux aux autres utilisateurs: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
+> r-x --> Corréspond aux autres utilisateurs: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
 
 1: Corréspond aux nombre de lien vers ce répertoire
 
