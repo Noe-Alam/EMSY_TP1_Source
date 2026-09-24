@@ -90,11 +90,11 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 d: indique qu'il s'agit d'un répertoire
 
-rwxr-xr-x: Corréspond aux droit d'accès (propriétaire) --> rwx: Le propriétaire peur lire (r = read), peut écrire (w = write), peut accèder au répertoire (x = execute) 
+rwxr-xr-x: Corréspond aux droit d'accès (propriétaire) --> rwx: Le propriétaire peur lire (r = read), peut écrire (w = write), peut accèder au répertoire (x = execute). 
 		   
-		   Corréspond aux du groupe --> r-x: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire
+		   Corréspond aux du groupe --> r-x: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire.
 		   
-		   Corréspond aux aux autres utilisateurs --> r-x: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
+		   Corréspond aux aux autres utilisateurs --> r-x: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire.
 
 1: Corréspond aux nombre de lien vers ce répertoire
 
