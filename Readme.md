@@ -90,8 +90,22 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 d: indique qu'il s'agit d'un répertoire
 
-rwxr-xr-x: Corréspond aux droit d'accès --> rwx:
+rwxr-xr-x: Corréspond aux droit d'accès (propriétaire) --> rwx: Le propriétaire peur lire (r = read), peut écrire (w = write), peut accèder au répertoire (x = execute) 
+		   Corréspond aux du groupe --> r-x: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire
+		   Corréspond aux aux autres utilisateurs --> r-x: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
 
+1: Corréspond aux nombre de lien vers ce répertoire
+
+root: Corréspond au nom du propriétaire du répertoire
+
+root: Corréspond au nom du groupe propriétaire du répertoire	
+
+60: Corréspond à la taille en octets du répertoire
+
+Sep 17 13:46 : Corréspond à la date et à l'heure de la dernière modification 
+
+home: Corréspond au nom du répertoire
+				
 **J.** Créez un répertoire de travail nommé « EMSY_VosInitiales» 
 
 Q7. dans quel dossier racine allez-vous le placer (justifiez votre réponse) 
