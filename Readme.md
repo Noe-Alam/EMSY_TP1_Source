@@ -113,11 +113,15 @@ home: Corréspond au nom du répertoire
 
 Q7. dans quel dossier racine allez-vous le placer (justifiez votre réponse) 
 
-> votre réponse ?! 
+Dans le dossier personnel de l'utilisateur dans ce cas home
 
 Q8. Quelle commande allez-vous utiliser pour faire ceci ?  
 
-> votre commande ?! 
+J'ai d'abbord taper la commande cd / pour me mettre à la racine du système
+
+J'ai ensuite taper la commande cd home pour me placer dans le bon répertoire
+
+J'ai ensuite taper la commande sudo mkdir EMSY_NAM_YAD pour créer le répertoire de travail (EMSY_NAM_YAD corréspond au nom de ce répertoire)
 
 **K.** Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	   Utiliser la commande `vi`
