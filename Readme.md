@@ -80,7 +80,7 @@ La commande que j'ai tapé pour me déplacer a la racine du système est: cd /
 
 ![Contenu racine](/Images/Contenu_de_la_racine.jpg)
 
-**Q5.** Que signifie l'option `-l` avec la commande `ls` 
+Q5. Que signifie l'option `-l` avec la commande `ls` 
 
 L'option -l avec ls indique l'utilisation du format d'affichage détaillé/long ce qui fait qu'au lieu d'afficher uniquement le nom des fichier plusieurs autres informations. 
 
@@ -90,11 +90,11 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 d: indique qu'il s'agit d'un répertoire
 
-rwxr-xr-x: Corréspond aux droit d'accès (propriétaire) --> rwx: Le propriétaire peur lire (r = read), peut écrire (w = write), peut accèder au répertoire (x = execute) 
+rwxr-xr-x:  > Corréspond aux droit d'accès (propriétaire) --> rwx: Le propriétaire peur lire (r = read), peut écrire (w = write), peut accèder au répertoire (x = execute) 
 		   
-Corréspond aux du groupe --> r-x: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire
+> Corréspond aux du groupe --> r-x: Le groupe peut lire (r = read), peut accèder au répertoire (x = execute), mais ne peut pas écrire dans le répertoire
 		   
-Corréspond aux aux autres utilisateurs --> r-x: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
+> Corréspond aux aux autres utilisateurs --> r-x: Les autres utilisateur peuvent lire (r = read), peuvent accèder au répertoire (x = execute), mais ne peuvent pas écrire dans le répertoire
 
 1: Corréspond aux nombre de lien vers ce répertoire
 
