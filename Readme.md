@@ -139,7 +139,7 @@ Une fois dans le fichier texte aprèe avoir taper la commande vi je dois appuyer
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
 Non le répertoir et le fichier ne seront plus présent car le machine virtuelle fonctionne en s'éxecutant depuis le fichier iso 
-et les fichier sont donc placer au niveau de la mémoire vive donc quand la machine virtuelle est éteinte le fichier sont perdus
+et les fichiers sont donc placer au niveau de la mémoire vive donc quand la machine virtuelle est éteinte les fichiers sont perdus
 
 **L.** Tapez la commande `ls -l /dev/sda` 
 
