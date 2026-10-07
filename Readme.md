@@ -143,7 +143,7 @@ et les fichiers sont donc placer au niveau de la mémoire vive donc quand la mac
 
 **L.** Tapez la commande `ls -l /dev/sda` 
 
-![Placer votre capture d'écran]() 
+![Ligne repertoir home](/Images/Question_L.jpg)
 
 Q11. Que signifie **sda** ? 
 
