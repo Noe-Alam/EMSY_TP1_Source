@@ -126,15 +126,20 @@ J'ai ensuite taper la commande sudo mkdir EMSY_NAM_YAD pour créer le répertoir
 **K.** Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	   Utiliser la commande `vi`
 
-> votre commande ?! 
+Pour créer ce fichier texte je me suis placer dans le bon répertoire en taopand la commande cd EMSY_NAM_YAD
+
+Une fois dans le répertoire j'ai taper la commande sudo vi TESTSLO_NAM_YAD pour créer le fichier texte
 
 Q9. Pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
-> votre réponse ?!
+Non je ne peux pas éditer le fichier en tapant uniquemeent la commande vi
+
+Une fois dans le fichier texte aprèe avoir taper la commande vi je dois appuyer sur i pour me mettre en mode insertion
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
-> votre réponse ?!
+Non le répertoir et le fichier ne seront plus présent car le machine virtuelle fonctionne en s'éxecutant depuis le fichier iso 
+et les fichier sont donc placer au niveau de la mémoire vive donc quand la machine virtuelle est éteinte le fichier sont perdus
 
 **L.** Tapez la commande `ls -l /dev/sda` 
 
