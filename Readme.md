@@ -147,11 +147,13 @@ et les fichiers sont donc placer au niveau de la mémoire vive donc quand la mac
 
 Q11. Que signifie **sda** ? 
 
-> votre réponse ?!
+sda indique le premier disque dur détecté par le système
 
 Q12. Quelle différence y a-t-il entre le répertoire de la question Q6 et celui du point L (justifiez votre réponse) ?
 
-> votre réponse ?!
+Le répertoire home (répertoir de la question 6) est un répertoire dis classique qui sert a stocker les differentes données et fichiers 
+personnels des utilisateurs. Le répertoire /dev/sda (répertoire du point L) est quand à lui un répertoir bloc ceci est indiqueé par 
+le b au début de la ligne c'est a dire qu'il représente un disque.
 
 ## Installation de SparkyLinux sur la VM
 
