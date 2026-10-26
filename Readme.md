@@ -173,7 +173,7 @@ le b au début de la ligne c'est a dire qu'il représente un disque.
 
 Q13. Quelle est la taille de disque minimum recommandée pour installer la distribution Sparky en mode cli 
 
-> votre réponse ?!
+La taille de disque minimum recommandée pour installer SparkyLinux et de 2Go
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe-t-il sur les OS Microsoft Windows ? 
 
