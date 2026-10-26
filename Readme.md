@@ -159,7 +159,17 @@ le b au début de la ligne c'est a dire qu'il représente un disque.
 
 **M.** Installez SparkyLinux
 
-![Placer vos captures d'écrans de l'installation]()
+![Ligne repertoir home](/Images/Installation_1èr_image.jpg)
+
+![Ligne repertoir home](/Images/Installation_2ème_image.jpg)
+
+![Ligne repertoir home](/Images/Installation_3ème_image.jpg)
+
+![Ligne repertoir home](/Images/Installation_4ème_image.jpg)
+
+![Ligne repertoir home](/Images/Installation_5ème_image.jpg)
+
+![Ligne repertoir home](/Images/Installation_6ème_image.jpg)
 
 Q13. Quelle est la taille de disque minimum recommandée pour installer la distribution Sparky en mode cli 
 
