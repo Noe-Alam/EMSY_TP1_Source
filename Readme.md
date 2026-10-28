@@ -187,7 +187,7 @@ Je pourrais utiliser ces formats: FAT32 ou exFAT
 
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ? 
 
-Un d'entre eux corréspond au nom d'utilisateur administrateur et l'autre au nom de l'utilisateur standard.
+Un d'entre eux corrésponds au nom d'utilisateur administrateur et l'autre au nom de l'utilisateur standard.
 
 **N.** Une fois l’installation de Linux terminée, prenez une capture d’écran du démarrage de votre système (GRUB)
 
@@ -195,9 +195,17 @@ Un d'entre eux corréspond au nom d'utilisateur administrateur et l'autre au nom
 
 **O.** Trouvez la ou les lignes de commande permettant de changer le clavier et procédez à la configuiration 
 
-> votre commande ?! 
+Voici la commande qui permet de changer le clavier: sudo dpkg-reconfigure keyboard-configuration
 
-![Placer votre capture d'écran]() 
+![Ligne repertoir home](/Images/Configuration_du_clavier.jpg) 
+
+![Ligne repertoir home](/Images/Choix_du_clavier.jpg) 
+
+![Ligne repertoir home](/Images/Choix_du_clavier2.jpg) 
+
+![Ligne repertoir home](/Images/Choix_du_layout_clavier.jpg) 
+
+![Ligne repertoir home](/Images/Configuration_clavier.jpg) 
 
 **P.** Tapez la commande : `nano -version`
 
