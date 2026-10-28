@@ -134,7 +134,7 @@ Q9. Pouvez-vous éditez un fichier uniquement avec la commande `vi`
 
 Non je ne peux pas éditer le fichier en tapant uniquemeent la commande vi
 
-Une fois dans le fichier texte aprèe avoir taper la commande vi je dois appuyer sur i pour me mettre en mode insertion
+Une fois dans le fichier texte après avoir taper la commande vi je dois appuyer sur i pour me mettre en mode insertion
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
