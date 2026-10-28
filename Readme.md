@@ -229,7 +229,7 @@ J'ai utiliser la commande git --version.
 
 Q19. Si le client `git` n'est pas installé, quelle(s) commande(s) utilisez-vous pour l’installer ? 
 
-J'utilise la commande sudo apt update.
+J'utilise la commande sudo apt install git.
 
 Q20. Que veut dire `apt` ? 
 
@@ -261,11 +261,11 @@ chmod :  ajoute lecture, écriture, exécution pour l'utilisateur.
 
 Q24. Qu’observez-vous dans ce répertoire ?
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/EMSY_TP1_Source_Contenu.jpg)
 
 **T.** Editez le fichier source `.c` avec l’éditeur de texte « nano ». -> Réalisez un petit programme en C (par exemple de type « Hello world »).
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/Creation_Du_Programme.jpg)
 
 **U.**	Vérifiez si le compilateur `gcc` est bien installé. Notez la version du logiciel
 
