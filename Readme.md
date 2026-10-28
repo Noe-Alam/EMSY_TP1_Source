@@ -177,19 +177,21 @@ La taille de disque minimum recommandée pour installer SparkyLinux et de 2Go
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe-t-il sur les OS Microsoft Windows ? 
 
-> votre réponse ?!
+La partition swap sert d'extension à la mémoire vive (RAM) lorsque celle-ci est inssufisante.
+
+Oui ce principe existe aussi sur les OS Microsoft windows.
 
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ? 
 
-> votre réponse ?!
+Je pourrais utiliser ces formats: FAT32 ou exFAT
 
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ? 
 
-> votre réponse ?!
+Un d'entre eux corréspond au nom d'utilisateur administrateur et l'autre au nom de l'utilisateur standard.
 
 **N.** Une fois l’installation de Linux terminée, prenez une capture d’écran du démarrage de votre système (GRUB)
 
-![Placer votre capture d'écran]() 
+![Ligne repertoir home](/Images/Ecran_de_demarrage_linux_GRUB.jpg) 
 
 **O.** Trouvez la ou les lignes de commande permettant de changer le clavier et procédez à la configuiration 
 
