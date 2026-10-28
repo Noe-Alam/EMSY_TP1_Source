@@ -294,7 +294,7 @@ Les fichier qui on été générés sont le fichier objet (fichier.o) et le fich
 
 Q26. Que se passe-t-il ?
 
-Le système exécute le programme EMSY_TP1.c dans le terminal. Le message Hello World! s'affiche donc.
+Le système exécute le programme EMSY_TP1.c dans le terminal. Le message "Hello World!" s'affiche donc.
 
 
 
