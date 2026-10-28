@@ -269,9 +269,9 @@ Q24. Qu’observez-vous dans ce répertoire ?
 
 **U.**	Vérifiez si le compilateur `gcc` est bien installé. Notez la version du logiciel
 
-> votre réponse ?!
+Oui le compilateur gcc est installlé. Sa version est: gcc (Debian 10.2.1-6) 10.2.1
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/Verification_gcc.jpg)
 
 **U-A.** Tapez les commandes suivantes :
 ```Shell 
@@ -280,21 +280,21 @@ gcc -o fichier fichier.o
 ```
 Remarque : « fichier » est à remplacer par le nom de votre choix
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/Création_fichier_gcc.jpg)
 
 Q25. Quels sont les fichiers qui ont été générés 
 
-> votre réponse ?!
+Les fichier qui on été générés sont le fichier objet (fichier.o) et le fichier exécutable final.
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/Création_fichier_gcc.jpg)
 
 **V.** Entrez la commande suivante : `./fichier`
 
-![Placer votre capture d'écran]()
+![Ligne repertoir home](/Images/Commande_Point_V.jpg)
 
 Q26. Que se passe-t-il ?
 
-> votre réponse ?!
+Le système exécute le programme EMSY_TP1.c dans le terminal. Le message Hello World! s'affiche donc.
 
 
 
