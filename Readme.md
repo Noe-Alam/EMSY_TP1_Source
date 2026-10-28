@@ -195,7 +195,7 @@ Un d'entre eux corrésponds au nom d'utilisateur administrateur et l'autre au no
 
 **O.** Trouvez la ou les lignes de commande permettant de changer le clavier et procédez à la configuiration 
 
-Voici la commande qui permet de changer le clavier: sudo dpkg-reconfigure keyboard-configuration
+Voici la commande qui permet de changer le clavier: sudo dpkg-reconfigure keyboard-configuration.
 
 ![Ligne repertoir home](/Images/Configuration_du_clavier.jpg) 
 
@@ -209,45 +209,51 @@ Voici la commande qui permet de changer le clavier: sudo dpkg-reconfigure keyboa
 
 **P.** Tapez la commande : `nano -version`
 
-![Placer votre capture d'écran]() 
+La commande nano -version ne fonctionne pas. 
+![Ligne repertoir home](/Images/nano_version1.jpg)
+
+Mais la commande nano --version fonctionne et nous indique si l'editeur de texte nano est installé.
+![Ligne repertoir home](/Images/nano_version2.jpg)
 
 Q17. A quoi sert `nano` ? 
 
-> votre réponse ?!
+nano est un éditeur de texte. Il permet d'éditer des fichiers texte directement dans le terminal, de modifier des fichier de configuration.
 
 **Q.** Testez si l’application `git` est installée sur votre distribution, si ce n’est pas le cas installez un client git. 
 
 Q18. Comment savoir si `git` est déjà installé ? 
 
-> votre réponse ?!
+On peut savoir si git est installé grâce a une commande tapée dans le terminal.
 
-> votre commande ?! 
+J'ai utiliser la commande git --version.
 
 Q19. Si le client `git` n'est pas installé, quelle(s) commande(s) utilisez-vous pour l’installer ? 
 
-> votre commande ?! 
+J'utilise la commande sudo apt update.
 
 Q20. Que veut dire `apt` ? 
 
-> votre réponse ?!
+apt veut dire Advenced Package Tool.
 
 Q21. Est-ce que cette commande (`apt`) peut être utilisée sur toutes les distributions Linux (justifiez votre réponse)? 
 
-> votre réponse ?!
+Non apt ne peut pas être utilisé sur toutes les distributions Linux. apt est conçu spécialement pour les distribution baséés sur Debian.
 
 **R.** Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. 
        
 **Attention** : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution.
 
-> votre commande ?! 
+La commande que j'utilise est: sudo mkdir EMSY_TP1_NAM-YAD
 
 Q22. Quel est le répertoire utilisateur ?  
 
-> votre réponse ?!
+Le répertoire utilisateur est home, rpresenté de cette manière: /home/<nom_utilisateur> ou par ~ dans le terminal.
 
 Q23. Quelles sont les commandes pour changer les droits d'utilisateurs (lecture - écriture - execution) ?  
 
-> votre commande ?! 
+sudo chown : change le propriétaire et le groupe.
+
+chmod :  ajoute lecture, écriture, exécution pour l'utilisateur.
 
 **S.** Dans ce répertoire, tapez la commande : `git clone https://github.com/votreDepot/EMSY_TP1_Source`
 
